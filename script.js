@@ -50,7 +50,7 @@ function submitForm() {
       "</div>";
   }
 
-  newData += "</div></div>";
+  newData += "</div> </div>";
 
   dataSection.innerHTML += newData;
 
